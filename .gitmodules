@@ -2,7 +2,9 @@
 	path = packages/subsocial_sdk
 	url = https://github.com/dappforce/subsocial-flutter.git
 	branch = signer
+	ignore = dirty
 [submodule "packages/subsocial_auth"]
 	path = packages/subsocial_auth
 	url = https://github.com/TarekkMA/subsocial-flutter-auth.git
 	branch = initial_setup
+    ignore = dirty
